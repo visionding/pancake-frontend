@@ -488,8 +488,8 @@ export function useTrackedTokenPairs(): [Token, Token][] {
   }, [savedSerializedPairs, chainId])
 
   const combinedList = useMemo(
-    () => userPairs.concat(generatedPairs).concat(pinnedPairs).concat(farmPairs),
-    [generatedPairs, pinnedPairs, userPairs, farmPairs],
+    () => userPairs.concat(generatedPairs).concat(pinnedPairs),
+    [generatedPairs, pinnedPairs, userPairs],
   )
 
   return useMemo(() => {
