@@ -6,7 +6,7 @@ const tokens = {
     symbol: "CAKE",
     address: {
       56: "0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82",
-      1000: "0xa35062141Fa33BCA92Ce69FeD37D0E8908868AAe",
+      1000: "0x4193C627F68c9bfeE263ec10eA3D585a8D0366e7",
     },
     decimals: 18,
     projectLink: "https://pancakeswap.finance/",
@@ -294,7 +294,7 @@ const tokens = {
     symbol: "UST",
     address: {
       56: "0x23396cf899ca06c4472205fc903bdb4de249d6fc",
-      1000: "",
+      1000: "0x59202C4C148bb37F30f40aa8C19Fb0ff3b0E4F8F",
     },
     decimals: 18,
     projectLink: "https://mirror.finance/",
@@ -609,7 +609,7 @@ const tokens = {
     symbol: "BUSD",
     address: {
       56: "0xe9e7CEA3DedcA5984780Bafc599bD69ADd087D56",
-      1000: "",
+      1000: "0xdcfD27b400279cf018182172436992419271e3ce",
     },
     decimals: 18,
     projectLink: "https://www.paxos.com/busd/",
@@ -618,7 +618,7 @@ const tokens = {
     symbol: "ETH",
     address: {
       56: "0x2170Ed0880ac9A755fd29B2688956BD959F933F8",
-      1000: "",
+      1000: "0xFDF981BF33654ff65e02E6bC0a08e92Ba30e01b4",
     },
     decimals: 18,
     projectLink: "https://ethereum.org/en/",
@@ -690,7 +690,7 @@ const tokens = {
     symbol: "DAI",
     address: {
       56: "0x1AF3F329e8BE154074D8769D1FFa4eE058B1DBc3",
-      1000: "",
+      1000: "0xcF1dbe0f5027cF3951A000D3Fd6AFC9299dF9a49",
     },
     decimals: 18,
     projectLink: "http://www.makerdao.com/",
@@ -744,7 +744,7 @@ const tokens = {
     symbol: "USDT",
     address: {
       56: "0x55d398326f99059fF775485246999027B3197955",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "0x19cf3c4d3Ee638b917D8ad8D055993c8Dd193e85",
     },
     decimals: 18,
     projectLink: "https://tether.to/",
@@ -753,7 +753,7 @@ const tokens = {
     symbol: "BTCB",
     address: {
       56: "0x7130d2A12B9BCbFAe4f2634d864A1Ee1Ce3Ead9c",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "0xD4447F287c3e1b5d2130795D551eB077c67aF76A",
     },
     decimals: 18,
     projectLink: "https://bitcoin.org/",
@@ -762,7 +762,7 @@ const tokens = {
     symbol: "XRP",
     address: {
       56: "0x1D2F0da169ceB9fC7B3144628dB156f3F6c60dBE",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "0x627aF03e52aAa7965e9B223046e60889679F44Db",
     },
     decimals: 18,
     projectLink: "https://ripple.com/xrp/",
@@ -771,7 +771,7 @@ const tokens = {
     symbol: "ATOM",
     address: {
       56: "0x0Eb3a705fc54725037CC9e008bDede697f62F335",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "",
     },
     decimals: 18,
     projectLink: "https://cosmos.network/",
@@ -780,7 +780,7 @@ const tokens = {
     symbol: "YFII",
     address: {
       56: "0x7F70642d88cf1C4a3a7abb072B53B929b653edA5",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "",
     },
     decimals: 18,
     projectLink: "https://dfi.money/#/",
@@ -789,7 +789,7 @@ const tokens = {
     symbol: "XTZ",
     address: {
       56: "0x16939ef78684453bfDFb47825F8a5F714f12623a",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "",
     },
     decimals: 18,
     projectLink: "https://www.tezos.com/",
@@ -798,7 +798,7 @@ const tokens = {
     symbol: "BCH",
     address: {
       56: "0x8fF795a6F4D97E7887C79beA79aba5cc76444aDf",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "",
     },
     decimals: 18,
     projectLink: "http://bch.info/",
@@ -807,7 +807,7 @@ const tokens = {
     symbol: "YFI",
     address: {
       56: "0x88f1A5ae2A3BF98AEAF342D26B30a79438c9142e",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "",
     },
     decimals: 18,
     projectLink: "https://yearn.finance/",
@@ -816,7 +816,7 @@ const tokens = {
     symbol: "UNI",
     address: {
       56: "0xBf5140A22578168FD562DCcF235E5D43A02ce9B1",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "",
     },
     decimals: 18,
     projectLink: "https://uniswap.org/",
@@ -825,7 +825,7 @@ const tokens = {
     symbol: "FIL",
     address: {
       56: "0x0D8Ce2A99Bb6e3B7Db580eD848240e4a0F9aE153",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "",
     },
     decimals: 18,
     projectLink: "https://filecoin.io/",
@@ -834,7 +834,7 @@ const tokens = {
     symbol: "BAKE",
     address: {
       56: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
-      1000: "",
+      1000: "0xdE0258c67F134104981ff2c5597Ed28DBf73920b",
     },
     decimals: 18,
     projectLink: "https://www.bakeryswap.org/",
@@ -843,7 +843,7 @@ const tokens = {
     symbol: "BURGER",
     address: {
       56: "0xAe9269f27437f0fcBC232d39Ec814844a51d6b8f",
-      1000: "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      1000: "",
     },
     decimals: 18,
     projectLink: "https://burgerswap.org/",
